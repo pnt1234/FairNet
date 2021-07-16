@@ -12,6 +12,6 @@ This repository provides a reference implementations for the Fairness Aware Algo
 
 1. Farzan Masrour, Tyler Wilson, Heng Yan, Pang-Ning Tan, Abdol-Hossein Esfahanian. Bursting the Filter Bubble: Fairness-Aware Network Link Prediction. In Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI-2020), New York, NY (2020). 
 
-2. Farzan Masrour, Pang-Ning Tan, and Abdol-Hossein Esfahanian. Fairness Perception from a Network-Centric Perspective. To appear in Proceedings of the 20th IEEE International Conference on Data Mining, Sorrento, Italy (2020).
+2. Farzan Masrour, Pang-Ning Tan, and Abdol-Hossein Esfahanian. Fairness Perception from a Network-Centric Perspective. In Proceedings of the 20th IEEE International Conference on Data Mining, Sorrento, Italy (2020).
 
 
