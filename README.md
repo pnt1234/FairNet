@@ -21,5 +21,3 @@ This repository contains implementations of the software developed for the Fairn
 3. Francisco Santos, Junke Ye, Farzan Masrour, Pang-Ning Tan, and Abdol-Hossein Esfahanian. FACS-GCN: Fairness-Aware Cost-Sensitive Boosting of Graph Convolutional Networks In Proc of IEEE International Joint Conference on Neural Networks (IJCNN-2022), Padova, Italy (2022).
 
 4. Farzan Masrour, Francisco Santos, Pang-Ning Tan, and Abdol-Hossein Esfahanian. Fairness-Aware Graph Sampling for Network Analysis In Proc of the 22nd IEEE International Conference on Data Mining, Orlando, FL (2022). 
-
-
